@@ -1,0 +1,12 @@
+Figma Link:
+https://www.figma.com/file/2dXQOjDEHzCazJpyz05Tq3/IRCTC-APP?type=design&node-id=0%3A1&mode=design&t=ldKAale8Y2aSbyeE-1
+
+The current IRCTC app design has some limitations that could be improved upon:
+    It has a cluttered and overwhelming interface, making it difficult to navigate and find the necessary information.
+    The colors are dark and drab, which does not reflect the excitement of travel and movement. Buttons have poor gradient.
+    The app is not intuitive, making it difficult for first-time users to understand how to use the app.
+
+Given improved design has addressed these limitations by:
+    Using a cleaner, more streamlined interface with intuitive navigation.
+    Implementing a brighter color palette that reflects the excitement of travel.
+    Making the app more user-friendly, with clear instructions and intuitive navigation for first-time users.
