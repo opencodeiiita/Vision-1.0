@@ -1,0 +1,16 @@
+Figma Link : https://www.figma.com/file/v15asOfrOeFXgOIsSqvXYX/Untitled?type=design&node-id=0%3A1&mode=design&t=V51XP3Amjnsw1vCt-1
+
+1) The given design is bad because it's not appealing and easy to use.
+2) The components are not properly placed.
+3) Complete Login section including "agent login" button should be at one place for ease of access.
+4) The "Agent Login" button is not placed correctly. I changed its position.
+5) I also changed its color to an eye catching color which, I guess, fits perfectly on the theme of app.
+6) The MOST IMPORTANT ISSUE, which I personally face while using such app or website, is the gap between two buttons or links. It's quite irritating when we have to struggle with clicking properly on the link/button we want.
+7) I tried to resolve that too.
+8) The text in "more apps" section is coming out of the box which is not looking good and professional.
+9) Changed the color of "forgot pin" and "register" link.
+
+
+10) In the second design (of search page), I don't think there needs to be any change.
+11) Everything is present with proper colouration, size of buttons and boxes, gaps, on the same page. 
+12) User needs not to switch between pages for these correlated information (which is given on that page).
