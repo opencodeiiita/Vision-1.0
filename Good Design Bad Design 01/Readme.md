@@ -26,6 +26,7 @@ This is a competitive issue so your PRs will be closed after everyone has submit
 ## MDC (Minimum Design Criteria):
 
 - Since this task is for 50 points the design should be appropriate, consistent, and clean.
+- Redesign both screens.
 - Do not change the colour scheme of the app screens.
 - You can change shape, size, positioning.
 - You can also chnage colours of the buttons but it should be under older colour theory.
