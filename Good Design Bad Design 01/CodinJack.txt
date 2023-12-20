@@ -1,0 +1,19 @@
+Figma Link: https://www.figma.com/file/8HzjpwEiFAj8cs2YDxwH9Y/Bad-Design-Good-Design?type=design&node-id=0%3A1&mode=design&t=9i8lgAbc1LekDVwr-1
+
+First Screen:-
+1. Looks cluttered and overwhelming
+2. The box shapes are very random.
+3. The text in the "More Apps" section is coming out of the box.
+
+I've arranged the boxes neatly and aligned everything properly.
+Each digit of the 4-digit password has its own box.
+I even placed the "Agent Login using OTP" button right after the login box for easy access.
+
+Second Screen:-
+1. There is a lack of visual hierarchy.
+2. The layout is inconsistent. It looks like the elements have been randomly placed.
+3. The screen is cluttered with a lot of text and buttons, which can be overwhelming for users.
+
+I have tried to arrange everything thoughtfully.
+I placed the information box right after the "Search trains" button for a user-friendly experience. 
+This design ensures a seamless flow, enhancing accessibility and convenience for users interacting with the interface.
