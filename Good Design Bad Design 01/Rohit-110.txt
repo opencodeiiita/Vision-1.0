@@ -1,0 +1,11 @@
+Figma link :- https://www.figma.com/file/HtqaE8QzPr0YqXheaO19Te/Untitled?type=design&node-id=0-1&mode=design&t=KTDoMo5tN0JAykAO-0
+
+Login Screen:
+    1. The center box splitted does non-linearly was looking absurd which I made a complete box and put the login section in it giving proper indentation in it.
+    2. There were a lot of apps making in the second box making the screen very crowdy along with login screen so I provided option more so if anyone want he/she can jump to next page.
+    3. Instead of giving the back and Guide at bottom I gave it top, as inn many apps this is common design, and as much u keep common that much is simpler for user to adjust.
+Search Screen:
+    1. I made the date selection option evenly distributed by making the selected date in center.
+    2. All the options were no uniformly distributed so i changed that.
+    3. Instead of providing recent searches I gave the screen little space remmoving it.
+    
