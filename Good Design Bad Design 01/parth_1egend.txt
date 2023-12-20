@@ -1,0 +1,26 @@
+Link:https:
+
+https://www.figma.com/file/zw27jnQOXtMP4xpiGxJset/Untitled?type=design&node-id=0%3A1&mode=design&t=AzYZigHVVGM3M3Xq-1
+
+
+Changes and Improvements: 
+
+- First Page
+
+1. Login with OTP checkbox was unnecessary so removed it. We already have a button for that at end of the page.
+2. Improved the login setup by giving each element proper space and removing the tilted design, instead added shadow effect to have a protruding effect of the login part.
+3. Improved the more apps section by keeping the apps in a more organized hexagonal fashion.
+4. Added protruding effect at places to highlight that part above rom the background to give good look to the UI.
+
+- Second Page
+
+1. No need to give time at the top of the page as the user will have time on his or her phone. It cluters our header.
+2. No need to give different days on the side when already giving them a calender.
+3. Same font format in the checkbox list.
+4. Convert information section into proper links.
+5. Show recent 3 searches and give option to check previous history.
+
+- These changes reduces the clutter on the screen thus making the UI more feasable to use. 
+- Removing unncessary buttons and information and giving them separately helps user easily get to where he wants to go.
+- Proper looks which is simple makes the app accessible to more users.
+- Presenting the data properly without unwanted designs is necessary for making an app user friendly.
