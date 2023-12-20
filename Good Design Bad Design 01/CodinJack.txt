@@ -1,5 +1,6 @@
 Figma Link: https://www.figma.com/file/8HzjpwEiFAj8cs2YDxwH9Y/Bad-Design-Good-Design?type=design&node-id=0%3A1&mode=design&t=9i8lgAbc1LekDVwr-1
 
+
 First Screen:-
 1. Looks cluttered and overwhelming
 2. The box shapes are very random.
