@@ -1,7 +1,7 @@
 Link: https://www.figma.com/file/3OtxjpblBXxMzCnStL3jtO/Untitled?type=design&node-id=0%3A1&mode=design&t=AtXmWDHGjUiBSASB-1
 
 Screen 2:
-1) UI design is inconsistent due to different sizes of group logos. Made group logos same in size.
+1) UI design is inconsistent due to different sizes of group logos. Made group logos same in size. UI looks consistent.
 2) Extra details on main page make UI cluttered. Removed extra details to make UI experience look clean and better.
 3) Resized text to lay emphasis on the amount owed.
 4) Applied given colour scheme in "App UI".
