@@ -1,0 +1,15 @@
+Link: https://www.figma.com/file/3OtxjpblBXxMzCnStL3jtO/Untitled?type=design&node-id=0%3A1&mode=design&t=AtXmWDHGjUiBSASB-1
+
+Screen 2:
+1) UI design is inconsistent due to different sizes of group logos. Made group logos same in size. UI looks consistent.
+2) Extra details on main page make UI cluttered. Removed extra details to make UI experience look clean and better.
+3) Resized text to lay emphasis on the amount owed.
+4) Applied given colour scheme in "App UI".
+5) Replaced "Add expense" with corresponding button at bottom to make the page appearance cleaner.
+
+Screen 1:
+1) Repetitive use of words such as "you owe" and "you borrowed" make UI cluttered. Uncluttered UI and added symbols for better visual appeal.
+2) Formatted text to lay emphasis on the amount owed.
+3) Applied given colour scheme in "App UI".
+4) Replaced "Add expense" with corresponding button at bottom to make the page appearance cleaner.
+
