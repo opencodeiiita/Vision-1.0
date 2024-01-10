@@ -1,0 +1,11 @@
+Figma Link:
+https://www.figma.com/file/F4ZlvoQit27SQ3uTJuKoLc/GDBD-3?type=design&node-id=0%3A1&mode=design&t=SZZ3CkzEqla246rG-1
+
+The current design has a lot of clutter and visual noise, which can be overwhelming for users.
+The color palette is inconsistent and lacks a cohesive visual hierarchy, making it difficult for users to understand what elements are important.
+The alignment of elements is not always consistent, leading to a disjointed user experience.
+
+Changes I have made:
+Streamline the design by removing unnecessary elements and simplifying the layout.
+Establish a consistent color palette that prioritizes hierarchy and usability.
+Align elements consistently to create a more cohesive and intuitive user flow.
